@@ -31,6 +31,8 @@
 
 **Docker部署：**
 
+My docker which has mostly translated to english: johnyan2/51nav
+
 ```bash
 docker run -itd --name="onenav" -p 80:80 \
     -e USER='xiaoz' -e PASSWORD='xiaoz.me' \
@@ -46,6 +48,8 @@ docker run -itd --name="onenav" -p 80:80 \
 
 ## Demo
 
+English : [http://bookmark.51sec.eu.org/](http://bookmark.51sec.eu.org/)
+
 以下是OneNav部分用户演示站，排名不分先后。
 
 * OneNav：[https://nav.rss.ink/](https://nav.rss.ink/)
@@ -55,9 +59,7 @@ docker run -itd --name="onenav" -p 80:80 \
 ## 联系我
 
 * Blog:https://www.xiaoz.me/
-* QQ:337003006
-* QQ群：147687134
-* 社区支持：[https://dwz.ovh/vd0bw](https://dwz.ovh/vd0bw)
+
 
 ## 鸣谢
 
